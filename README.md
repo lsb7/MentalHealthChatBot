@@ -1,5 +1,5 @@
 # MentalHealthChatBot
-Instruction-tuned Chatbot for Mental Health using Llama2 & BlenderBot
+<ins>Instruction-tuned Chatbot for Mental Health using Llama2 & BlenderBot</ins>
 
 Our project trains two different models: BlenderBot and Llama2.
 
