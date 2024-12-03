@@ -1,7 +1,7 @@
 # MentalHealthChatBot
-Instruction-tuned Chatbot for Mental Health using Llama2
+Instruction-tuned Chatbot for Mental Health using Llama2 & BlenderBot
 
-Our project trains models using Llama2.
+Our project trains two different models: BlenderBot and Llama2.
 
 We will train the following models with the following 3 datasets:
 
@@ -18,8 +18,10 @@ And EVALUATE them together with a Vanilla model using BLEU score on UNSEEN couns
 
 The code we have provided below trains the models, evaluates the BLEU score of their responses, and runs on Google Co-lab.
 
-llama_2_vanilla.py
-finetuned_llama_2_v1.py
-finetuned_llama_2_v2.py
-finetuned_llama_2_v3.py
+finetuned_blenderbot_therapist.py  
+finetuned_blenderbot_phr_therapist.py  
+llama_2_vanilla.py  
+finetuned_llama_2_v1.py  
+finetuned_llama_2_v2.py  
+finetuned_llama_2_v3.py  
 web_scraper.py (Gets data from reddit API)
